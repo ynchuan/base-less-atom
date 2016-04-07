@@ -1,0 +1,15 @@
+.h1-tt {
+  height: 30px;
+  line-height: 30px;
+  font-size: 16px;
+  font-family: 'Microsoft Yahei';
+  color: #cccccc;
+  border-bottom: 1px solid #eeeeee;
+  font-weight: lighter;
+}
+.p-c {
+  margin: 0;
+  height: 25px;
+  line-height: 25px;
+  font-size: 14px;
+}
