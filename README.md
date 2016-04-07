@@ -51,7 +51,7 @@
 			.fs(14px);
 		} 
 
-以上实现了快速定义样式表，减少代码的敲入量以及单词书写失误。[查看demo](https://github.com/ynchuan/app-base-react/tree/master/test/less/test.less)
+以上实现了快速定义样式表，减少代码的敲入量以及单词书写失误。[查看demo](https://github.com/ynchuan/base-less-atom/tree/master/test/less/test.less)
 
 ##less库说明
 
